@@ -1,0 +1,17 @@
+C:\c#3\BanGiay-master\BUS\bin\Debug\net7.0\BUS.deps.json
+C:\c#3\BanGiay-master\BUS\bin\Debug\net7.0\BUS.runtimeconfig.json
+C:\c#3\BanGiay-master\BUS\bin\Debug\net7.0\BUS.dll
+C:\c#3\BanGiay-master\BUS\bin\Debug\net7.0\BUS.pdb
+C:\c#3\BanGiay-master\BUS\bin\Debug\net7.0\DAL.dll
+C:\c#3\BanGiay-master\BUS\bin\Debug\net7.0\DAL.pdb
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\BUS.csproj.AssemblyReference.cache
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\BUS.AssemblyInfoInputs.cache
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\BUS.AssemblyInfo.cs
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\BUS.csproj.CoreCompileInputs.cache
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\BUS.csproj.CopyComplete
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\BUS.dll
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\refint\BUS.dll
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\BUS.pdb
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\BUS.genruntimeconfig.cache
+C:\c#3\BanGiay-master\BUS\obj\Debug\net7.0\ref\BUS.dll
